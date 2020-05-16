@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Bmicalculator/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Bmicalculator/static/js/main.877834d9.chunk.js",
-    "main.js.map": "/Bmicalculator/static/js/main.877834d9.chunk.js.map",
+    "main.js": "/Bmicalculator/static/js/main.b6c67c56.chunk.js",
+    "main.js.map": "/Bmicalculator/static/js/main.b6c67c56.chunk.js.map",
     "runtime-main.js": "/Bmicalculator/static/js/runtime-main.a344836f.js",
     "runtime-main.js.map": "/Bmicalculator/static/js/runtime-main.a344836f.js.map",
     "static/js/2.30a2abf3.chunk.js": "/Bmicalculator/static/js/2.30a2abf3.chunk.js",
     "static/js/2.30a2abf3.chunk.js.map": "/Bmicalculator/static/js/2.30a2abf3.chunk.js.map",
     "index.html": "/Bmicalculator/index.html",
-    "precache-manifest.77856c43b859b5ffb4cf18674ca0eafa.js": "/Bmicalculator/precache-manifest.77856c43b859b5ffb4cf18674ca0eafa.js",
+    "precache-manifest.d6661157582978423758ea0caac977b1.js": "/Bmicalculator/precache-manifest.d6661157582978423758ea0caac977b1.js",
     "service-worker.js": "/Bmicalculator/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/Bmicalculator/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.30a2abf3.chunk.js.LICENSE.txt": "/Bmicalculator/static/js/2.30a2abf3.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.a344836f.js",
     "static/js/2.30a2abf3.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.877834d9.chunk.js"
+    "static/js/main.b6c67c56.chunk.js"
   ]
 }
